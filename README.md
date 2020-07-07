@@ -8,3 +8,6 @@ Link for the challenge: https://www.hackerearth.com/problem/machine-learning/pre
 
 ![Screenshot (184)](https://user-images.githubusercontent.com/13919456/86552448-09a1b600-bf16-11ea-8b6d-6ab2a9213053.png)
 
+## I have written a medium post on this project. 
+Link for the post: https://medium.com/@puthran.sohan/hackerearth-machine-learning-challenge-will-your-employees-leave-you-dc5042897cfe
+
